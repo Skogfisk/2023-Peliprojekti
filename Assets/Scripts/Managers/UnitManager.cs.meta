@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6606f5a758c16a94cbf2cbdc5d13f507
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SelectedUnit: {instanceID: 0}
+  - unitContainer: {instanceID: 0}
+  - randomPrefab: {instanceID: 0}
+  - randomSpawnTile: {instanceID: 0}
+  - _playerUnitsList: {fileID: 11400000, guid: 497e1f490fc2c804ba50bd0d1c893cdb, type: 2}
+  - _knightUnit: {instanceID: 0}
+  - _archerUnit: {instanceID: 0}
+  - _mageUnit: {instanceID: 0}
+  - _clericUnit: {instanceID: 0}
+  - _rogueUnit: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
